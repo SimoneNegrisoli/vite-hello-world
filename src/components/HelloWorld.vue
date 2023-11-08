@@ -15,13 +15,11 @@ export default {
 </template>
 
 <style scoped>
-div {
-  width: 100%;
-  height: 100%;
-  position: relative;
-}
 h1 {
   position: relative;
   z-index: 1000;
+  font-size: 3.2em;
+  line-height: 100vh;
+  color: white;
 }
 </style>

@@ -5,16 +5,13 @@ export default {
 </script>
 
 <template>
-  <img
-    src="/painting-mountain-lake-with-mountain-background_188544-9126.avif"
-    alt="lago"
-  />
+  <img src="/gaston-abascal-8F-6pXyQyLU-unsplash.jpg" alt="lago" />
 </template>
 
 <style lang="css" scoped>
 img {
   width: 100%;
-  height: 100%;
+  height: 100vh;
   object-fit: cover;
   position: absolute;
   top: 0;
