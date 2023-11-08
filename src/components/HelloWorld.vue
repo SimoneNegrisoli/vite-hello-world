@@ -1,5 +1,5 @@
 <script setup>
-import Background from "./Background.vue";
+import Jumbotron from "./Jumbotron.vue";
 </script>
 <script>
 export default {
@@ -9,7 +9,7 @@ export default {
 
 <template>
   <div>
-    <Background />
+    <Jumbotron />
     <h1>Hello World</h1>
   </div>
 </template>

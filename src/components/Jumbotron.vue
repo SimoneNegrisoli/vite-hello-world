@@ -1,6 +1,6 @@
 <script>
 export default {
-  name: "Background",
+  name: "Jumbotron",
 };
 </script>
 
