@@ -1,3 +1,6 @@
+<script setup>
+import Background from "./Background.vue";
+</script>
 <script>
 export default {
   name: "HelloWorld",
@@ -6,6 +9,7 @@ export default {
 
 <template>
   <div>
+    <Background />
     <h1>Hello World</h1>
   </div>
 </template>
